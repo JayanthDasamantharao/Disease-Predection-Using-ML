@@ -14,4 +14,4 @@ With clean data in hand, machine learning models can be trained. The Support Vec
 ### Inference: 
 The article employs a combined approach for prediction. By leveraging the predictions from all three trained models, the final disease prediction becomes more accurate and robust.
 
-In conclusion, the article presents a function that accepts symptom inputs separated by commas. This function uses the trained models to predict the disease based on the symptoms and returns the predictions in JSON format.
+In conclusion, the article presents a function that accepts symptom inputs separated by commas. This function uses the trained models to predict the disease based on the symptoms.
